@@ -1,3 +1,3 @@
-module github.com/example/helloworld
+module github.com/janckin/gohelloworld
 
 go 1.21.4
